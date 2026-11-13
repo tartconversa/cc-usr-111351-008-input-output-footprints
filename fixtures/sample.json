@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "sectors": [
+    "materials"
+  ],
+  "transactions": [
+    [
+      10
+    ]
+  ],
+  "gross_output": [
+    20
+  ],
+  "final_demands": [
+    {
+      "use": "park",
+      "values": [
+        10
+      ]
+    }
+  ],
+  "direct_intensity": [
+    2
+  ],
+  "basis": {
+    "currency": "CNY",
+    "price_year": 2026
+  },
+  "crosswalk": [
+    {
+      "from": "materials",
+      "to": "materials",
+      "weight": 1
+    }
+  ]
+}
